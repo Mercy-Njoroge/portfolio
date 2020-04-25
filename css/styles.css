@@ -4,6 +4,7 @@ body{
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+
   }
 
 ul{
@@ -39,7 +40,7 @@ ul li:hover ul li{
 h1{
     font-family: fantasy;
     color: darkorange;
-    padding-left: 0px;
+    padding-left: 200px;
     margin: 50px;
     font-size: 50px;
 }
