@@ -1,16 +1,18 @@
+
 body{
     background: url('https://cdn-media-1.freecodecamp.org/images/1*94q4HJ10s6rtvhLcQQuMRw.png') no-repeat;
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
-}
+  }
+
 ul{
     margin: 0px;
     padding: 0px;
     list-style: none;
 }
 ul li{
-    float: left;
+    float: right;
     width: 200px;
     height: 40px;
     background-color: black;
@@ -33,4 +35,11 @@ ul li ul li{
 }
 ul li:hover ul li{
     display: block;
+}
+h1{
+    font-family: fantasy;
+    color: darkorange;
+    padding-left: 0px;
+    margin: 50px;
+    font-size: 50px;
 }
